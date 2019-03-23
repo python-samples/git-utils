@@ -1,7 +1,9 @@
-project1:
-  - repo1
-  - repo2
-project2:
-  - repo3
-  - repo4
-  - repo5
+server_url: https://git-url/scm/
+repos:
+  project1:
+    - repo1
+    - repo2
+  project2:
+    - repo3
+    - repo4
+    - repo5
